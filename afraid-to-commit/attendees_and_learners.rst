@@ -364,4 +364,3 @@ I followed the tutorial online
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
 * Bojan - Page0s
-*
